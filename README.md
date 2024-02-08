@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Augustin Selete (@august-dev-pro)
 - 👀 I’m interested in all types of projects
-- 🌱 I’m currently learning PHP, JS, Css and framework (symfony, reatJs)...
+- 🌱 I’m currently learning PHP, JS, scss and framework (symfony, reatJs, nextJs)...
 - 💞️ I’m looking to collaborate To learn more
 - 📫 How to reach me  -email: augustinselete01@gmail.com  -phone: +225 057 477 588 9
 
